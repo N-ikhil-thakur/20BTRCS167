@@ -1,0 +1,14 @@
+# Node Environment
+NODE_ENV=development
+
+# Port number
+PORT=5000
+
+# url for mysql
+DATABASE_URL="mongodb://127.0.0.1:27017/TRAINS?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.6.2"
+
+# JWT
+# JWT secret key
+JWT_SECRET=adsa678432jhfdHJdsau3j23bbjSAD1221
+# Number of minutes after which an access token expires
+JWT_ACCESS_EXPIRATION_MINUTES=30

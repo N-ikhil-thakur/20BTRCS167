@@ -1,0 +1,5 @@
+{
+    "companyName": "Train Central",
+    "clientID": "64da35012cc1ab48d51c6a7e",
+    "clientSecret": "nbww7cz637"
+}
